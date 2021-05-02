@@ -1,8 +1,8 @@
-## The rule of 3
+## The Rule of 3
 
-## How Are You?
-## What Makes You Unique?"
-## Why Not?
+### How Are You?
+### What Makes You Unique?"
+### Why Not?
 
 ## Welcome to GitHub Pages
 
