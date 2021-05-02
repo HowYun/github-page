@@ -1,3 +1,9 @@
+## The rule of 3
+
+## How Are You?
+## What Makes You Unique?"
+## Why Not?
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/HowYun/github-page/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
